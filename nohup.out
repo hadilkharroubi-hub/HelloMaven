@@ -1,0 +1,32 @@
+Nov 18, 2026 7:11:26 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.rngdatatype.helpers.ProxyDatatypeLibraryFactory of service com.sun.tools.rngdatatype.DatatypeLibraryFactory in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.code_injector.PluginImpl of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.locator.SourceLocationAddOn of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.sync.SynchronizedMethodAddOn of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.at_generated.PluginImpl of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.episode.PluginImpl of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider com.sun.tools.xjc.addon.accessors.PluginImpl of service com.sun.tools.xjc.Plugin in bundle com.sun.xml.bind.jaxb-osgi
+Nov 18, 2026 7:11:38 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider org.glassfish.jaxb.runtime.v2.JAXBContextFactory of service jakarta.xml.bind.JAXBContextFactory in bundle com.sun.xml.bind.jaxb-osgi
+19:11:40.852 [Start Level: Equinox Container: 30693056-77cf-4d47-b477-d8e460d92577] DEBUG org.eclipse.jgit.internal.util.ShutdownHook -- register org.eclipse.jgit.util.FS$FileStoreAttributes$$Lambda/0x000000004b214638@110b595f with shutdown hook
+19:11:40.852 [Start Level: Equinox Container: 30693056-77cf-4d47-b477-d8e460d92577] DEBUG org.eclipse.jgit.internal.util.ShutdownHook -- register org.eclipse.jgit.util.FS$FileStoreAttributes$$Lambda/0x000000004b214638@110b595f with shutdown hook
+19:12:23.376 [main] DEBUG org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob -- Queued refresh request: [/Calcul/pom.xml]
+19:12:23.376 [main] DEBUG org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob -- Queued refresh request: [/Calcul/pom.xml]
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/snap/eclipse/150/plugins/org.eclipse.m2e.maven.runtime_3.9.1601.20260722-2149/jars/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+
+(Eclipse:4387): Gtk-CRITICAL **: 19:12:35.719: gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/snap/eclipse/150/plugins/org.eclipse.lemminx.uber-jar_0.31.2.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
